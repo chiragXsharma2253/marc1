@@ -1,0 +1,8 @@
+{
+  "name": "Gift Finder",
+  "description": "Find unique, non-repeated gift ideas from Amazon and Flipkart with direct store links, smart deduplication, and custom backend support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
